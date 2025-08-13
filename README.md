@@ -1,4 +1,5 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Aim:	
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -111,6 +112,9 @@ Machine Learning (ML): Subset of AI that allows systems to learn patterns from d
 Deep Learning: Uses neural networks with multiple layers to perform complex tasks.
 
 ## 3. What is Generative AI?
+
+<img width="507" height="284" alt="476468862-7f45b38f-fdec-4025-94eb-e2b413c058c9" src="https://github.com/user-attachments/assets/6e3b4169-636e-446f-8ff2-7e57550f58ca" />
+
 Generative AI refers to AI systems that can create new data samples, not just classify or predict.
 Key Features:
 
